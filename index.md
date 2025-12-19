@@ -10,3 +10,8 @@ Markdown helps organize content on GitHub.
 
 ```javascript
 console.log("Hello, Markdown!");
+```
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
